@@ -1,0 +1,8 @@
+﻿Aika loppui todella pahasti kesken enkä ehtinyt tekemään enempää, kuin arvosanan 2 veroisesti. HUOM! Muokattu versio 10.3.2020.
+Loin tietokannan Db Browserilla ja Reverse Engineerasin sen Visual studioon. Toiminta kantaan asti varmistettu Postmanin avulla.
+
+
+Seuraavalla Url:illa backend toimii.
+get + post:https://localhost:44342/api/Henkilots
+put+ delete: esim. https://localhost:44342/api/Henkilots/1
+
